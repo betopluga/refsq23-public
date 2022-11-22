@@ -1,0 +1,85 @@
+{
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As a camp worker, I'm able to report necessary repairs to the manager that the camp is needed of.",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 1,
+            "sentence": "As a camp worker, I want to be able to see which campers I am in charge of and where, so that I can make sure I am doing my job properly.",
+            "found": true,
+            "position": 1,
+            "token": "be"
+        },
+        {
+            "id": 2,
+            "sentence": "As a camp counselor, I want to be able to take attendance of my assigned kids, so that I can make ensure everybody is accounted for.",
+            "found": true,
+            "position": 1,
+            "token": "be"
+        },
+        {
+            "id": 3,
+            "sentence": "As a camp administrator, I want to be able to add campers, so that I can keep track of each individual camper.",
+            "found": true,
+            "position": 1,
+            "token": "be"
+        },
+        {
+            "id": 4,
+            "sentence": "As a camp administrator, I want to be able to remove campers if they don't attend the camp anymore, so that I can keep the records organized.",
+            "found": true,
+            "position": 1,
+            "token": "be"
+        },
+        {
+            "id": 5,
+            "sentence": "As a camp administrator, I want to be able to keep camper records from previous years, so that the amount of work I need to do is lowered. ",
+            "found": true,
+            "position": 1,
+            "token": "be"
+        },
+        {
+            "id": 6,
+            "sentence": "As a camp administrator, I want to be able to upload consent forms, so that campers or their parents can easily access the forms.",
+            "found": true,
+            "position": 1,
+            "token": "be"
+        },
+        {
+            "id": 7,
+            "sentence": "As a camp administrator, I want to be able to keep track of which camper submitted which forms, so that legal issues are avoided.",
+            "found": true,
+            "position": 1,
+            "token": "be"
+        },
+        {
+            "id": 8,
+            "sentence": "As a parent, I want to be able to see which consent forms I have submitted, so that I can know what I still need to do.",
+            "found": true,
+            "position": 1,
+            "token": "be"
+        },
+        {
+            "id": 9,
+            "sentence": "As a camp administrator, I want to be able to see only events for a specific group/groups on the event calendar, so that I can easily read the data on the calendar without too much clutter.",
+            "found": true,
+            "position": 1,
+            "token": "be"
+        }
+    ],
+    "result": [
+        {
+            "part": "I want to",
+            "total_sentences": 10,
+            "total_sentences_completed": 9,
+            "first_10": 9,
+            "avg_position": 1,
+            "median_pos": 1,
+            "standard_deviation": 0
+        }
+    ]
+}

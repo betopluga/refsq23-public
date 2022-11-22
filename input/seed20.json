@@ -1,0 +1,15 @@
+{
+    "sentences": [
+        "As an administrator, I want to create user roles, so that I can group users by role.",
+        "As an administrator, I want to assign RAC staff to different user groups, so that I can control read/write access.",
+        "As an administrator, I want to assign rights to user groups or roles, so that I can control what users can and can't do.",
+        "As an archivist, I want to search individual material types.",
+        "As an archivist, I want to search images by uploading an image, so that so I can find images when i don't have any metadata.",
+        "As a researcher, I want to generate structured citation data, so that so I can cite a file in a publication.",
+        "As an archivist, I want to apply a license or rights statement, so that I know what I can do with a file.",
+        "As an archivist, I want to mark individual files as restricted, so that they don't get shared by mistake.",
+        "As an archivist, I want to mark groups of files as restricted, so that they don't get shared by mistake.",
+        "As an archivist, I want to set a date on which restrictions will be removed from a file, so that that I don't have to update this by hand."
+    ],
+    "part": "As a"
+}

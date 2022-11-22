@@ -1,0 +1,78 @@
+{
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As a CST, I want to pay an annual fee, so that my CST status is active.",
+            "found": true,
+            "position": 10,
+            "token": "my"
+        },
+        {
+            "id": 1,
+            "sentence": "As a site administrator, I want to set the annual fees for members, Practitioners and Trainers, so that fees can be set without involving a programmer.",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 2,
+            "sentence": "As a member, I want to receive a reminder and a link, so that I can renew my membership.",
+            "found": true,
+            "position": 2,
+            "token": "I"
+        },
+        {
+            "id": 4,
+            "sentence": "As a trainer, I want to read information of relevance only to trainers, so that the Scrum Alliance can share information with me easily.",
+            "found": true,
+            "position": 3,
+            "token": "the"
+        },
+        {
+            "id": 5,
+            "sentence": "As a site editor, I want to post information in a trainers-only section, so that only trainers see it.",
+            "found": true,
+            "position": 30,
+            "token": "only"
+        },
+        {
+            "id": 6,
+            "sentence": "As a site member, I want to view the profiles of other members, so that I can find others I might want to connect with.",
+            "found": true,
+            "position": 2,
+            "token": "I"
+        },
+        {
+            "id": 7,
+            "sentence": "As a site visitor, I want to have an advanced search option that lets me fill in a form of search criteria, so that I can quickly find what I am looking for.",
+            "found": true,
+            "position": 2,
+            "token": "I"
+        },
+        {
+            "id": 8,
+            "sentence": "As a site visitor, I want to see new content when I come to the site, so that I come back more often.",
+            "found": true,
+            "position": 2,
+            "token": "I"
+        },
+        {
+            "id": 9,
+            "sentence": "As a site visitor, I want to have articles that interest me and are easy to get to, so that I come to the site for my agile news and learning.",
+            "found": true,
+            "position": 2,
+            "token": "I"
+        }
+    ],
+    "result": [
+        {
+            "part": "so that",
+            "total_sentences": 9,
+            "total_sentences_completed": 8,
+            "first_10": 7,
+            "avg_position": 6.625,
+            "median_pos": 2,
+            "standard_deviation": 9.840695387739919
+        }
+    ]
+}

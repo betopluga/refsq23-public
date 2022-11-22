@@ -1,0 +1,15 @@
+{
+    "sentences": [
+        "As a researcher,  I want to have the ability to interact with a revision control system so that I can keep track of changes to files over time.",
+        "As a JuniorResearcher,  I want to have the ability to harvest knowledge from within the group, so that I can learn from more experienced researchers.",
+        "As a researcher, I want to secure remote access to the Neurohub node when working away from the laboratory",
+        "As a researcher, I want to have a group-level repository for sharing papers/reviews/comments with other researchers.",
+        "As a researcher, I want to have the details of the workflow plan as well as the execution history and results recorded in Neurohub while executing a workflow",
+        "As a user, I want to upload large files of over 1GB in size.",
+        "As a user, I want to assign tags to files that I have uploaded.",
+        "As a user, I want to assign bespoke information to a file dependent on its type.",
+        "As a researcher, I want to have services to support the long term curation of data, so that I can be sure that data will not get 'lost' with the passage of time.",
+        "As a researcher, I want to have a timeline display of multiple data files and their associated images, so that I can compare the data taken from experiments on particular dates."
+    ],
+    "part": "As a"
+}

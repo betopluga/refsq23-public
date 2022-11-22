@@ -1,0 +1,15 @@
+{
+    "sentences": [
+        "As a Publisher, I want to know if this site has a pricing plan and what the prices are, so that that I can work out what this will cost me in the future and have a sense that these guys are sustainable. ",
+        "As a Publisher, I want to sign up for a given pricing plan, so that that I am entitled to what it allows.",
+        "As a Publisher, I want to have private data packages, so that I can share just with my team.",
+        "As a Publisher, I want to import my data package into the registry, so that my data has a permanent online home to access. ",
+        "As a Publisher, I want to configure my client, so that I can start publishing data packages.",
+        "As a Consumer, I want to see some example data packages quickly, so that I get a sense of what is on this site and if it is useful to look further.",
+        "As a Consumer, I want to search data packages, so that that I can find the ones I want.",
+        "As an Owner, I want to edit my profile, so that that it is updated with new information.",
+        "As an Owner, I want to invite an existing user, so that the user can become a member of my publisher.",
+        "As a Consumer, I want to see a publisher's profile, so that that I can discover their packages and get a sense of how active and good they are."
+    ],
+    "part": "As a"
+}

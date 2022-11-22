@@ -1,0 +1,29 @@
+{
+    "sentences": [
+        {
+            "id": 2,
+            "sentence": "As an admin, I want to see a summary of articles, so that I reuse them.",
+            "found": true,
+            "position": 1,
+            "token": "I"
+        },
+        {
+            "id": 5,
+            "sentence": "As a user, I want to search and discover music by exploiting enriched metadata and image tags, so that I find related artists, new genre, or other relevant listening path.",
+            "found": true,
+            "position": 1,
+            "token": "I"
+        }
+    ],
+    "result": [
+        {
+            "part": "so that",
+            "total_sentences": 2,
+            "total_sentences_completed": 2,
+            "first_10": 2,
+            "avg_position": 1,
+            "median_pos": 1,
+            "standard_deviation": 0
+        }
+    ]
+}

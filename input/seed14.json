@@ -1,0 +1,15 @@
+{
+    "sentences": [
+        "As a developer, I want to have the API components to be on a high level so that I don’t have to deal with their details. ",
+        "As a developer, I want to have an easy way to read data from health sensors the user is wearing. ",
+        "As a serious games developer, I want to be able to take control over some functions to provide the desired user experience. ",
+        "As a developer, I want to provide an easy way to manage the user Settings. ",
+        "As a developer, I want to have the ALFRED API to reduce the work to achieve my goals. ",
+        "As an OlderPerson, I want to know exactly what ALFRED does with my personal data, and share it only on my specific permission. ",
+        "As an OlderPerson, I want to receive information from ALFRED by speech technology. ",
+        "As an OlderPerson, I want to use only well-visible buttons.",
+        "As an OlderPerson, I want to use ALFRED as much as possible with speech interaction.",
+        "As a MedicalCaregiver, I want to have videophone."
+    ],
+    "part": "As a"
+}

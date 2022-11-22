@@ -1,0 +1,10 @@
+﻿As a camp worker, I'm able to report necessary repairs to the manager that the camp is needed of.
+As a camp worker, I want to be able to see which campers I am in charge of and where, so that I can make sure I am doing my job properly.
+As a camp counselor, I want to be able to take attendance of my assigned kids, so that I can make ensure everybody is accounted for.
+As a camp administrator, I want to be able to add campers, so that I can keep track of each individual camper.
+As a camp administrator, I want to be able to remove campers if they don't attend the camp anymore, so that I can keep the records organized.
+As a camp administrator, I want to be able to keep camper records from previous years, so that the amount of work I need to do is lowered. 
+As a camp administrator, I want to be able to upload consent forms, so that campers or their parents can easily access the forms.
+As a camp administrator, I want to be able to keep track of which camper submitted which forms, so that legal issues are avoided.
+As a parent, I want to be able to see which consent forms I have submitted, so that I can know what I still need to do.
+As a camp administrator, I want to be able to see only events for a specific group/groups on the event calendar, so that I can easily read the data on the calendar without too much clutter.

@@ -1,0 +1,10 @@
+As an IT staff member, I want to know with which software or technology the data is produced or used, so that I can determine what kind of technical services and functionalities are required.
+As a data manager, I want to know which information is necessary to re-use the data, so that it can be checked whether all necessary information is available for researchers interested in re-using the data.
+As a data manager, I want to know which formats are used, so that I know what technology or background information might be necessary to use the data.
+As a researcher, I want to see the sections on costing by other researchers in my department, so that I can see if we could share data manager posts.
+As a data manager, I want to document all rights necessary for managing the data, so that I can curate and preserve the data.
+As a data manager, I want to know what the content of the data is, so that I can check whether the necessary expertise for maintaining intellectual reusability is available.
+As a researcher, I want to know which topics are mandatory and similar in all DMPs, so that I can save time through quickly writing it.
+As a data manager, I want to know which information is necessary to re-use the data, so that it can be checked whether all necessary information is available for researchers interested in re-using the data.
+As a data manager, I want to know which formats are used, so that I know what technology or background information might be necessary to use the data.
+As an IT staff member, I want to know which kind of data types will be produced or collected, so that I can ensure that the necessary technical resources and technical know-how is available.

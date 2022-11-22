@@ -1,0 +1,85 @@
+{
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As an UnivITservice, I want to store archived data on existing storage systems, so that university data storage is consistent and maintainable and future availability of data can be guaranteed.",
+            "found": true,
+            "position": 24,
+            "token": "university"
+        },
+        {
+            "id": 1,
+            "sentence": "As a data reuser, I want to view a DOI for a dataset, so that I can get back to the data in future and I can import the dataset into my referencemanagement software automatically.",
+            "found": true,
+            "position": 4,
+            "token": "I"
+        },
+        {
+            "id": 2,
+            "sentence": "As a depositor, I want to deposit and maintain datasets through a simple web interface, so that I don't need to install and learn new software to deposit.",
+            "found": true,
+            "position": 4,
+            "token": "I"
+        },
+        {
+            "id": 3,
+            "sentence": "As a depositor, I want to have a user interface that is familiar to me, so that I feel like all the University systems are joined up.",
+            "found": true,
+            "position": 4,
+            "token": "I"
+        },
+        {
+            "id": 4,
+            "sentence": "As a depositor, I want to deposit and maintain datasets through Pure, so that I have a single onestop shop for managing my research outputs.",
+            "found": true,
+            "position": 4,
+            "token": "I"
+        },
+        {
+            "id": 5,
+            "sentence": "As a depositor, I want to deposit and maintain datasets through Virtual Research Environments and other workflow tools, so that I can continue to work with tools with which I'm familiar.",
+            "found": true,
+            "position": 4,
+            "token": "I"
+        },
+        {
+            "id": 6,
+            "sentence": "As a depositor, I want to deposit the files that I have, so that I don't have to spend a lot of time finding the right version and converting to the right format.",
+            "found": true,
+            "position": 4,
+            "token": "I"
+        },
+        {
+            "id": 7,
+            "sentence": "As a data reuser, I want to search the archive through the web, so that I can easily find data relevant to my needs.",
+            "found": true,
+            "position": 4,
+            "token": "I"
+        },
+        {
+            "id": 8,
+            "sentence": "As a data reuser, I want to access the system in my native language, so that I am not put off reusing University of Bath data by language barriers.",
+            "found": true,
+            "position": 3,
+            "token": "I am"
+        },
+        {
+            "id": 9,
+            "sentence": "As a Bath Data Archive administrator, I want to make some checks on deposited datasets before they are made public, so that consistent quality of metadata is maintained, compliance with policies can be checked and details of licensing can be checked.",
+            "found": true,
+            "position": 22,
+            "token": "consistent"
+        }
+    ],
+    "result": [
+        {
+            "part": "so that",
+            "total_sentences": 10,
+            "total_sentences_completed": 10,
+            "first_10": 8,
+            "avg_position": 7.7,
+            "median_pos": 4,
+            "standard_deviation": 8.083591061183418
+        }
+    ]
+}

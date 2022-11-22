@@ -1,0 +1,78 @@
+{
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As a Staff member, I want to create each condo unit, so that I can associate it to the child parcel and address after the condominiums are recorded in the system.",
+            "found": true,
+            "position": 2,
+            "token": "I"
+        },
+        {
+            "id": 1,
+            "sentence": "As a Technical Staff member, I want to update the GIS Property Management, so that I can successfully update the transactional Parcel Pin to reference the GIS layer where the Split or Merged Parcel Pin exists.",
+            "found": true,
+            "position": 2,
+            "token": "I"
+        },
+        {
+            "id": 2,
+            "sentence": "As a Staff member, I want to Send or Post Citations and Fines, so that I can successfully send the Notice Of Violation document to the property owner and log information about the action.",
+            "found": true,
+            "position": 2,
+            "token": "I"
+        },
+        {
+            "id": 3,
+            "sentence": "As a Planning Staff member, I want to Evaluate Consistency with the Comprehensive Plan, so that I can complete my required review of a plan set and/or application.",
+            "found": true,
+            "position": 2,
+            "token": "I"
+        },
+        {
+            "id": 4,
+            "sentence": "As a Staff member, I want to Schedule a Meeting, so that I can bring the required parties together at a specific date/time to address an issue.",
+            "found": true,
+            "position": 2,
+            "token": "I"
+        },
+        {
+            "id": 6,
+            "sentence": "As an Inspection Staff member, I want to Create an Inspection, so that I can schedule and assign the inspection.",
+            "found": true,
+            "position": 2,
+            "token": "I"
+        },
+        {
+            "id": 7,
+            "sentence": "As an Applicant, I want to Submit Application, so that I can provide my information, plans and/or documents to initiate a transaction with the County.",
+            "found": true,
+            "position": 2,
+            "token": "I"
+        },
+        {
+            "id": 8,
+            "sentence": "As a Staff member, I want to Perform a Completeness Review, so that I can validate when an application is complete and eligible for further technical review.",
+            "found": true,
+            "position": 2,
+            "token": "I"
+        },
+        {
+            "id": 9,
+            "sentence": "As a Staff member, I want to Record an Internal Note, so that I can share information with other Staff collaborating on the record.",
+            "found": true,
+            "position": 2,
+            "token": "I"
+        }
+    ],
+    "result": [
+        {
+            "part": "so that",
+            "total_sentences": 9,
+            "total_sentences_completed": 9,
+            "first_10": 9,
+            "avg_position": 2,
+            "median_pos": 2,
+            "standard_deviation": 0
+        }
+    ]
+}

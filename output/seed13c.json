@@ -1,0 +1,43 @@
+{
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As a researcher,  I want to have the ability to interact with a revision control system so that I can keep track of changes to files over time.",
+            "found": true,
+            "position": 1,
+            "token": "I"
+        },
+        {
+            "id": 1,
+            "sentence": "As a JuniorResearcher,  I want to have the ability to harvest knowledge from within the group, so that I can learn from more experienced researchers.",
+            "found": true,
+            "position": 1,
+            "token": "I"
+        },
+        {
+            "id": 8,
+            "sentence": "As a researcher, I want to have services to support the long term curation of data, so that I can be sure that data will not get 'lost' with the passage of time.",
+            "found": true,
+            "position": 1,
+            "token": "I"
+        },
+        {
+            "id": 9,
+            "sentence": "As a researcher, I want to have a timeline display of multiple data files and their associated images, so that I can compare the data taken from experiments on particular dates.",
+            "found": true,
+            "position": 1,
+            "token": "I"
+        }
+    ],
+    "result": [
+        {
+            "part": "so that",
+            "total_sentences": 4,
+            "total_sentences_completed": 4,
+            "first_10": 4,
+            "avg_position": 1,
+            "median_pos": 1,
+            "standard_deviation": 0
+        }
+    ]
+}

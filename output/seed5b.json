@@ -1,0 +1,85 @@
+{
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As a Publisher, I would like a tool to check data availability persistence after publication. ",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 1,
+            "sentence": "As a ResearcherPublisher, I want to specify the funding that contributed to the creation of a given dataset, so that funding agencies can identify the funding, source for a given dataset. ",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 2,
+            "sentence": "As a ResearcherPublisher, I want to add a DOI to a dataset, so that I can cite it in papers stored  with the data.",
+            "found": true,
+            "position": 5,
+            "token": "add"
+        },
+        {
+            "id": 3,
+            "sentence": "As a Researcher, I want to get a Data Package into R in seconds, so that I can start using the data for doing analysis and visualizations. ",
+            "found": true,
+            "position": 1,
+            "token": "get"
+        },
+        {
+            "id": 4,
+            "sentence": "As a Researcher, I want to get a Data Package into Excel in seconds, so that I can start using the data for doing analysis and visualizations. ",
+            "found": true,
+            "position": 1,
+            "token": "get"
+        },
+        {
+            "id": 5,
+            "sentence": "As a Developer, I want to do exploratory data analysis in R and operationalize that analysis in Python, so that I can use the best tool for the job.",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 6,
+            "sentence": "As a Developer, I want to get a Data Package into Clojure in seconds, so that I can start using the data in doing analysis and visualizations. ",
+            "found": true,
+            "position": 1,
+            "token": "get"
+        },
+        {
+            "id": 7,
+            "sentence": "As a Developer, I want an Elasticsearch integration, so that I can integrate data-packaged data with pipelines that use Elasticsearch. ",
+            "found": true,
+            "position": 3,
+            "token": "a"
+        },
+        {
+            "id": 8,
+            "sentence": "As a ResearcherGovernment Publisher, I want to add general reference data to my narrow dataset, so that my dataset is more useful. ",
+            "found": true,
+            "position": 5,
+            "token": "add"
+        },
+        {
+            "id": 9,
+            "sentence": "As a Publisher, I want to embed a preview button on my site, so that users can preview the data and be encouraged that this is the correct data for them.",
+            "found": true,
+            "position": 16,
+            "token": "embed"
+        }
+    ],
+    "result": [
+        {
+            "part": "I want to",
+            "total_sentences": 10,
+            "total_sentences_completed": 7,
+            "first_10": 6,
+            "avg_position": 4.571428571428571,
+            "median_pos": 3,
+            "standard_deviation": 5.349677337844557
+        }
+    ]
+}

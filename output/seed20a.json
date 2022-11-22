@@ -1,0 +1,85 @@
+{
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As an administrator, I want to create user roles, so that I can group users by role.",
+            "found": true,
+            "position": 2,
+            "token": "administrator,"
+        },
+        {
+            "id": 1,
+            "sentence": "As an administrator, I want to assign RAC staff to different user groups, so that I can control read/write access.",
+            "found": true,
+            "position": 2,
+            "token": "administrator,"
+        },
+        {
+            "id": 2,
+            "sentence": "As an administrator, I want to assign rights to user groups or roles, so that I can control what users can and can't do.",
+            "found": true,
+            "position": 2,
+            "token": "administrator,"
+        },
+        {
+            "id": 3,
+            "sentence": "As an archivist, I want to search individual material types.",
+            "found": true,
+            "position": 7,
+            "token": "archivist,"
+        },
+        {
+            "id": 4,
+            "sentence": "As an archivist, I want to search images by uploading an image, so that so I can find images when i don't have any metadata.",
+            "found": true,
+            "position": 7,
+            "token": "archivist,"
+        },
+        {
+            "id": 5,
+            "sentence": "As a researcher, I want to generate structured citation data, so that so I can cite a file in a publication.",
+            "found": true,
+            "position": 1,
+            "token": "researcher"
+        },
+        {
+            "id": 6,
+            "sentence": "As an archivist, I want to apply a license or rights statement, so that I know what I can do with a file.",
+            "found": true,
+            "position": 7,
+            "token": "archivist,"
+        },
+        {
+            "id": 7,
+            "sentence": "As an archivist, I want to mark individual files as restricted, so that they don't get shared by mistake.",
+            "found": true,
+            "position": 7,
+            "token": "archivist,"
+        },
+        {
+            "id": 8,
+            "sentence": "As an archivist, I want to mark groups of files as restricted, so that they don't get shared by mistake.",
+            "found": true,
+            "position": 7,
+            "token": "archivist,"
+        },
+        {
+            "id": 9,
+            "sentence": "As an archivist, I want to set a date on which restrictions will be removed from a file, so that that I don't have to update this by hand.",
+            "found": true,
+            "position": 7,
+            "token": "archivist,"
+        }
+    ],
+    "result": [
+        {
+            "part": "As an",
+            "total_sentences": 10,
+            "total_sentences_completed": 10,
+            "first_10": 10,
+            "avg_position": 4.9,
+            "median_pos": 7,
+            "standard_deviation": 2.726414006223804
+        }
+    ]
+}

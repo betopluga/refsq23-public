@@ -1,0 +1,85 @@
+{
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As a recyclingfacility representative, I want to have access to user stats and schedules, so that I can adjust my hours and/or upgrade equipment and capacity in order to be able to accomodate larger amounts of recyclable materials.",
+            "found": true,
+            "position": 12,
+            "token": "recyclingfacility"
+        },
+        {
+            "id": 1,
+            "sentence": "As a recyclingfacility, I want to be able to communicate directly with the site admin and convey any issues or concerns I have, so that they fix them.",
+            "found": true,
+            "position": 12,
+            "token": "recyclingfacility"
+        },
+        {
+            "id": 2,
+            "sentence": "As an admin, I want to onboard recycling centers on the platform, so that I can increase information accuracy.",
+            "found": true,
+            "position": 4,
+            "token": "admin,"
+        },
+        {
+            "id": 3,
+            "sentence": "As a superuser, I want to update the recycling center information, so that I can provide the latest information about the recycling center.",
+            "found": true,
+            "position": 4,
+            "token": "superuser,"
+        },
+        {
+            "id": 4,
+            "sentence": "As a user, I want to view all locations of recycling centers on a map, so that I can check which routes to take to drop off waste.",
+            "found": true,
+            "position": 7,
+            "token": "user,"
+        },
+        {
+            "id": 5,
+            "sentence": "As a user, I want to upload my week's schedule, so that I can get recommendations for recycling centers that best fit my availability.",
+            "found": true,
+            "position": 7,
+            "token": "user,"
+        },
+        {
+            "id": 6,
+            "sentence": "As a user, I want to click on the address, so that it takes me to a new tab with Google Maps.",
+            "found": true,
+            "position": 7,
+            "token": "user,"
+        },
+        {
+            "id": 7,
+            "sentence": "As a user, I want to be able to anonymously view public information, so that I know about recycling centers near me before creating an account.",
+            "found": true,
+            "position": 7,
+            "token": "user,"
+        },
+        {
+            "id": 8,
+            "sentence": "As a user, I want to be able to enter my zip code and get a list of nearby recycling facilities, so that I can determine which ones I should consider.",
+            "found": true,
+            "position": 7,
+            "token": "user,"
+        },
+        {
+            "id": 9,
+            "sentence": "As a user, I want to be able to get the hours of each recycling facility, so that I can arrange drop-offs on my off days or during after-work hours.",
+            "found": true,
+            "position": 7,
+            "token": "user,"
+        }
+    ],
+    "result": [
+        {
+            "part": "As a",
+            "total_sentences": 10,
+            "total_sentences_completed": 10,
+            "first_10": 8,
+            "avg_position": 7.4,
+            "median_pos": 7,
+            "standard_deviation": 2.7162065049951147
+        }
+    ]
+}

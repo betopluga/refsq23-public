@@ -1,0 +1,85 @@
+{
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As a FABS user, I want to have my validations run in a reasonable amount of time.",
+            "found": true,
+            "position": 1,
+            "token": "have"
+        },
+        {
+            "id": 1,
+            "sentence": "As a Developer , I want to determine the best way to load historical FPDS data, so that I can load all FPDS data since 2007.",
+            "found": true,
+            "position": 30,
+            "token": "determine"
+        },
+        {
+            "id": 2,
+            "sentence": "As an agency user, I want a landing page to navigate to either FABS or DABS pages, so that I can access both sides of the site.",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 3,
+            "sentence": "As an agency user, I want to submit my data elements surrounded by quotation marks, so that Excel won't strip off leading and trailing zeroes.",
+            "found": true,
+            "position": 17,
+            "token": "submit"
+        },
+        {
+            "id": 4,
+            "sentence": "As a broker team member, I want to derive FundingAgencyCode, so that the data quality and completeness improves.",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 5,
+            "sentence": "As a Developer, I want D Files generation requests to be managed and cached, so that duplicate requests do not cause performance issues.",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 6,
+            "sentence": "As a website user, I want to see updated financial assistance data daily.",
+            "found": true,
+            "position": 16,
+            "token": "see"
+        },
+        {
+            "id": 7,
+            "sentence": "As a UI designer, I want to schedule user testing, so that I can give the testers advanced notice to ensure buy-in.",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 8,
+            "sentence": "As an Owner, I want to create a user testing summary from the UI SME, so that I can know what UI improvements we will follow through on.",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 9,
+            "sentence": "As a UI designer, I want to move on to round 2 of Homepage edits, so that I can get approvals from leadership.",
+            "found": true,
+            "position": 4,
+            "token": "move"
+        }
+    ],
+    "result": [
+        {
+            "part": "I want to",
+            "total_sentences": 10,
+            "total_sentences_completed": 5,
+            "first_10": 2,
+            "avg_position": 13.6,
+            "median_pos": 16,
+            "standard_deviation": 11.588787684654507
+        }
+    ]
+}

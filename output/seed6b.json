@@ -1,0 +1,85 @@
+{
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As a CST, I want to pay an annual fee, so that my CST status is active.",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 1,
+            "sentence": "As a site administrator, I want to set the annual fees for members, Practitioners and Trainers, so that fees can be set without involving a programmer.",
+            "found": true,
+            "position": 11,
+            "token": "set"
+        },
+        {
+            "id": 2,
+            "sentence": "As a member, I want to receive a reminder and a link, so that I can renew my membership.",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 3,
+            "sentence": "As a member, I want to have the system email me a new password or a password reminder since i have short-term memory problems.",
+            "found": true,
+            "position": 2,
+            "token": "have"
+        },
+        {
+            "id": 4,
+            "sentence": "As a trainer, I want to read information of relevance only to trainers, so that the Scrum Alliance can share information with me easily.",
+            "found": true,
+            "position": 3,
+            "token": "read"
+        },
+        {
+            "id": 5,
+            "sentence": "As a site editor, I want to post information in a trainers-only section, so that only trainers see it.",
+            "found": true,
+            "position": 13,
+            "token": "post"
+        },
+        {
+            "id": 6,
+            "sentence": "As a site member, I want to view the profiles of other members, so that I can find others I might want to connect with.",
+            "found": true,
+            "position": 8,
+            "token": "view"
+        },
+        {
+            "id": 7,
+            "sentence": "As a site visitor, I want to have an advanced search option that lets me fill in a form of search criteria, so that I can quickly find what I am looking for.",
+            "found": true,
+            "position": 2,
+            "token": "have"
+        },
+        {
+            "id": 8,
+            "sentence": "As a site visitor, I want to see new content when I come to the site, so that I come back more often.",
+            "found": true,
+            "position": 1,
+            "token": "see"
+        },
+        {
+            "id": 9,
+            "sentence": "As a site visitor, I want to have articles that interest me and are easy to get to, so that I come to the site for my agile news and learning.",
+            "found": true,
+            "position": 2,
+            "token": "have"
+        }
+    ],
+    "result": [
+        {
+            "part": "I want to",
+            "total_sentences": 10,
+            "total_sentences_completed": 8,
+            "first_10": 6,
+            "avg_position": 5.25,
+            "median_pos": 2.5,
+            "standard_deviation": 4.713203338949606
+        }
+    ]
+}

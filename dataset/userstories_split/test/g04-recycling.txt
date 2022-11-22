@@ -1,0 +1,10 @@
+As a recyclingfacility representative, I want to have access to user stats and schedules, so that I can adjust my hours and/or upgrade equipment and capacity in order to be able to accomodate larger amounts of recyclable materials.
+As a recyclingfacility, I want to be able to communicate directly with the site admin and convey any issues or concerns I have, so that they fix them.
+As an admin, I want to onboard recycling centers on the platform, so that I can increase information accuracy.
+As a superuser, I want to update the recycling center information, so that I can provide the latest information about the recycling center.
+As a user, I want to view all locations of recycling centers on a map, so that I can check which routes to take to drop off waste.
+As a user, I want to upload my week's schedule, so that I can get recommendations for recycling centers that best fit my availability.
+As a user, I want to click on the address, so that it takes me to a new tab with Google Maps.
+As a user, I want to be able to anonymously view public information, so that I know about recycling centers near me before creating an account.
+As a user, I want to be able to enter my zip code and get a list of nearby recycling facilities, so that I can determine which ones I should consider.
+As a user, I want to be able to get the hours of each recycling facility, so that I can arrange drop-offs on my off days or during after-work hours.

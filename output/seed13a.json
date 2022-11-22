@@ -1,0 +1,85 @@
+{
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As a researcher,  I want to have the ability to interact with a revision control system so that I can keep track of changes to files over time.",
+            "found": true,
+            "position": 1,
+            "token": "researcher,"
+        },
+        {
+            "id": 1,
+            "sentence": "As a JuniorResearcher,  I want to have the ability to harvest knowledge from within the group, so that I can learn from more experienced researchers.",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 2,
+            "sentence": "As a researcher, I want to secure remote access to the Neurohub node when working away from the laboratory",
+            "found": true,
+            "position": 1,
+            "token": "researcher,"
+        },
+        {
+            "id": 3,
+            "sentence": "As a researcher, I want to have a group-level repository for sharing papers/reviews/comments with other researchers.",
+            "found": true,
+            "position": 1,
+            "token": "researcher,"
+        },
+        {
+            "id": 4,
+            "sentence": "As a researcher, I want to have the details of the workflow plan as well as the execution history and results recorded in Neurohub while executing a workflow",
+            "found": true,
+            "position": 1,
+            "token": "researcher,"
+        },
+        {
+            "id": 5,
+            "sentence": "As a user, I want to upload large files of over 1GB in size.",
+            "found": true,
+            "position": 3,
+            "token": "user,"
+        },
+        {
+            "id": 6,
+            "sentence": "As a user, I want to assign tags to files that I have uploaded.",
+            "found": true,
+            "position": 3,
+            "token": "user,"
+        },
+        {
+            "id": 7,
+            "sentence": "As a user, I want to assign bespoke information to a file dependent on its type.",
+            "found": true,
+            "position": 3,
+            "token": "user,"
+        },
+        {
+            "id": 8,
+            "sentence": "As a researcher, I want to have services to support the long term curation of data, so that I can be sure that data will not get 'lost' with the passage of time.",
+            "found": true,
+            "position": 1,
+            "token": "researcher,"
+        },
+        {
+            "id": 9,
+            "sentence": "As a researcher, I want to have a timeline display of multiple data files and their associated images, so that I can compare the data taken from experiments on particular dates.",
+            "found": true,
+            "position": 1,
+            "token": "researcher,"
+        }
+    ],
+    "result": [
+        {
+            "part": "As a",
+            "total_sentences": 10,
+            "total_sentences_completed": 9,
+            "first_10": 9,
+            "avg_position": 1.6666666666666667,
+            "median_pos": 1,
+            "standard_deviation": 1
+        }
+    ]
+}

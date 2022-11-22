@@ -1,0 +1,10 @@
+As a DAMS manager, I want to know when permitted and restricted acts and/or their active dates are modified. 
+As a DAMS manager, I want to track all events scheduled for recording in the DAMS. 
+As a user, I want to be able to browse by collections in the DAMS. 
+As a repository manager, I want to know all the collections and objects in the DAMS for which I have custodial responsibility. 
+As a repository manager, I want to be able to update repository information in one place and be assured updates will be propaga
+As a repository manager, I want to represent the physical and/or logical structure of an object. 
+As a repository manager, I want to list all the components, in their appropriate order, for an object. 
+As a repository manager, I want to link, when appropriate, a component to another component or to a file. 
+As a DAMS manager, I want to know what objects or object components are still under copyright and cannot be displayed without either a license or incurring risk. 
+As a user, I want to list all the collections and objects in the DAMS that belong to a library unit. 

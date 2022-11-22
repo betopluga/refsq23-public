@@ -1,0 +1,85 @@
+{
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As a Publisher, I want to know if this site has a pricing plan and what the prices are, so that that I can work out what this will cost me in the future and have a sense that these guys are sustainable. ",
+            "found": true,
+            "position": 3,
+            "token": "that"
+        },
+        {
+            "id": 1,
+            "sentence": "As a Publisher, I want to sign up for a given pricing plan, so that that I am entitled to what it allows.",
+            "found": true,
+            "position": 3,
+            "token": "that"
+        },
+        {
+            "id": 2,
+            "sentence": "As a Publisher, I want to have private data packages, so that I can share just with my team.",
+            "found": true,
+            "position": 1,
+            "token": "I"
+        },
+        {
+            "id": 3,
+            "sentence": "As a Publisher, I want to import my data package into the registry, so that my data has a permanent online home to access. ",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 4,
+            "sentence": "As a Publisher, I want to configure my client, so that I can start publishing data packages.",
+            "found": true,
+            "position": 1,
+            "token": "I"
+        },
+        {
+            "id": 5,
+            "sentence": "As a Consumer, I want to see some example data packages quickly, so that I get a sense of what is on this site and if it is useful to look further.",
+            "found": true,
+            "position": 1,
+            "token": "I"
+        },
+        {
+            "id": 6,
+            "sentence": "As a Consumer, I want to search data packages, so that that I can find the ones I want.",
+            "found": true,
+            "position": 3,
+            "token": "that"
+        },
+        {
+            "id": 7,
+            "sentence": "As an Owner, I want to edit my profile, so that that it is updated with new information.",
+            "found": true,
+            "position": 3,
+            "token": "that"
+        },
+        {
+            "id": 8,
+            "sentence": "As an Owner, I want to invite an existing user, so that the user can become a member of my publisher.",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 9,
+            "sentence": "As a Consumer, I want to see a publisher's profile, so that that I can discover their packages and get a sense of how active and good they are.",
+            "found": true,
+            "position": 3,
+            "token": "that"
+        }
+    ],
+    "result": [
+        {
+            "part": "so that",
+            "total_sentences": 10,
+            "total_sentences_completed": 8,
+            "first_10": 8,
+            "avg_position": 2.25,
+            "median_pos": 3,
+            "standard_deviation": 1.0350983390135313
+        }
+    ]
+}

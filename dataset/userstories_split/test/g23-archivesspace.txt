@@ -1,0 +1,10 @@
+As an Archivist, I want to associate an Instance with a Container.
+As an Archivist, I want to assign Location information to a Container.
+As an archivist, I want to search within a repository for resource and accession and digital object records.
+As an archivist, I want to create and edit a Collection Management subrecord.
+As an Archivist, I want to rearrange the Resource and/or Digital Object hierarchy using keyboard-based navigation.
+As a user, I want backend changes to support loading enum value lists from the database.
+As a user, I want backend changes for bulk updating one enum value to another.
+As a Repository Manager , I want to create, update and delete any records in my repository.
+As a user, I want backend changes for managing enum lists.
+As an Archivist, I want to import EAD files that were exported by Archon.

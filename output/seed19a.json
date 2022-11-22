@@ -1,0 +1,85 @@
+{
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As a DAMS manager, I want to know when permitted and restricted acts and/or their active dates are modified. ",
+            "found": true,
+            "position": 7,
+            "token": "DAMS"
+        },
+        {
+            "id": 1,
+            "sentence": "As a DAMS manager, I want to track all events scheduled for recording in the DAMS. ",
+            "found": true,
+            "position": 7,
+            "token": "DAMS"
+        },
+        {
+            "id": 2,
+            "sentence": "As a user, I want to be able to browse by collections in the DAMS. ",
+            "found": true,
+            "position": 4,
+            "token": "user, I want"
+        },
+        {
+            "id": 3,
+            "sentence": "As a repository manager, I want to know all the collections and objects in the DAMS for which I have custodial responsibility. ",
+            "found": true,
+            "position": 1,
+            "token": "repository"
+        },
+        {
+            "id": 4,
+            "sentence": "As a repository manager, I want to be able to update repository information in one place and be assured updates will be propaga",
+            "found": true,
+            "position": 1,
+            "token": "repository"
+        },
+        {
+            "id": 5,
+            "sentence": "As a repository manager, I want to represent the physical and/or logical structure of an object. ",
+            "found": true,
+            "position": 1,
+            "token": "repository"
+        },
+        {
+            "id": 6,
+            "sentence": "As a repository manager, I want to list all the components, in their appropriate order, for an object. ",
+            "found": true,
+            "position": 1,
+            "token": "repository"
+        },
+        {
+            "id": 7,
+            "sentence": "As a repository manager, I want to link, when appropriate, a component to another component or to a file. ",
+            "found": true,
+            "position": 1,
+            "token": "repository"
+        },
+        {
+            "id": 8,
+            "sentence": "As a DAMS manager, I want to know what objects or object components are still under copyright and cannot be displayed without either a license or incurring risk. ",
+            "found": true,
+            "position": 7,
+            "token": "DAMS"
+        },
+        {
+            "id": 9,
+            "sentence": "As a user, I want to list all the collections and objects in the DAMS that belong to a library unit. ",
+            "found": true,
+            "position": 4,
+            "token": "user, I want"
+        }
+    ],
+    "result": [
+        {
+            "part": "As a",
+            "total_sentences": 10,
+            "total_sentences_completed": 10,
+            "first_10": 10,
+            "avg_position": 3.4,
+            "median_pos": 2.5,
+            "standard_deviation": 2.756809750418044
+        }
+    ]
+}

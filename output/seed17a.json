@@ -1,0 +1,85 @@
+{
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As an Archivist, I want to associate an Instance with a Container.",
+            "found": true,
+            "position": 2,
+            "token": "Archivist,"
+        },
+        {
+            "id": 1,
+            "sentence": "As an Archivist, I want to assign Location information to a Container.",
+            "found": true,
+            "position": 2,
+            "token": "Archivist,"
+        },
+        {
+            "id": 2,
+            "sentence": "As an archivist, I want to search within a repository for resource and accession and digital object records.",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 3,
+            "sentence": "As an archivist, I want to create and edit a Collection Management subrecord.",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 4,
+            "sentence": "As an Archivist, I want to rearrange the Resource and/or Digital Object hierarchy using keyboard-based navigation.",
+            "found": true,
+            "position": 2,
+            "token": "Archivist,"
+        },
+        {
+            "id": 5,
+            "sentence": "As a user, I want backend changes to support loading enum value lists from the database.",
+            "found": true,
+            "position": 1,
+            "token": "user,"
+        },
+        {
+            "id": 6,
+            "sentence": "As a user, I want backend changes for bulk updating one enum value to another.",
+            "found": true,
+            "position": 1,
+            "token": "user,"
+        },
+        {
+            "id": 7,
+            "sentence": "As a Repository Manager , I want to create, update and delete any records in my repository.",
+            "found": true,
+            "position": 9,
+            "token": "Repository"
+        },
+        {
+            "id": 8,
+            "sentence": "As a user, I want backend changes for managing enum lists.",
+            "found": true,
+            "position": 1,
+            "token": "user,"
+        },
+        {
+            "id": 9,
+            "sentence": "As an Archivist, I want to import EAD files that were exported by Archon.",
+            "found": true,
+            "position": 2,
+            "token": "Archivist,"
+        }
+    ],
+    "result": [
+        {
+            "part": "As an",
+            "total_sentences": 10,
+            "total_sentences_completed": 8,
+            "first_10": 8,
+            "avg_position": 2.5,
+            "median_pos": 2,
+            "standard_deviation": 2.6726124191242437
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As a Zooniverse admin, I want to group subjects by similarity.",
+            "found": true,
+            "position": 1,
+            "token": "Zooniverse"
+        },
+        {
+            "id": 1,
+            "sentence": "As a Zooniverse admin, I want to recommend different projects to volunteers based on their previous experiences.",
+            "found": true,
+            "position": 1,
+            "token": "Zooniverse"
+        },
+        {
+            "id": 2,
+            "sentence": "As an admin, I want to see a summary of articles, so that I reuse them.",
+            "found": true,
+            "position": 1,
+            "token": "admin,"
+        },
+        {
+            "id": 3,
+            "sentence": "As a user, I want to search and discover music based on other users similar to myself.",
+            "found": true,
+            "position": 4,
+            "token": "user,"
+        },
+        {
+            "id": 4,
+            "sentence": "As a user, I want to search and discover music or ringback tones similar to a given music video based on content similarity.",
+            "found": true,
+            "position": 4,
+            "token": "user,"
+        },
+        {
+            "id": 5,
+            "sentence": "As a user, I want to search and discover music by exploiting enriched metadata and image tags, so that I find related artists, new genre, or other relevant listening path.",
+            "found": true,
+            "position": 4,
+            "token": "user,"
+        },
+        {
+            "id": 6,
+            "sentence": "As a user, I want to upload tagged videos and have tags available for all further processing steps.",
+            "found": true,
+            "position": 4,
+            "token": "user,"
+        },
+        {
+            "id": 7,
+            "sentence": "As a Zooniverse admin, I want to assess how interesting or appealing or complex a picture is based on automated analysis, citizen annotations, and comments on Talk.",
+            "found": true,
+            "position": 1,
+            "token": "Zooniverse"
+        },
+        {
+            "id": 8,
+            "sentence": "As a Zooniverse admin, I want to detect when a scientist should be prompted to look at a subject, based on annotations and information from Talk comments.",
+            "found": true,
+            "position": 1,
+            "token": "Zooniverse"
+        },
+        {
+            "id": 9,
+            "sentence": "As a Zooniverse admin, I want to automatically detect Snapshot Serengeti images with no classifiable animals in them.",
+            "found": true,
+            "position": 1,
+            "token": "Zooniverse"
+        }
+    ],
+    "result": [
+        {
+            "part": "As a",
+            "total_sentences": 10,
+            "total_sentences_completed": 10,
+            "first_10": 10,
+            "avg_position": 2.2,
+            "median_pos": 1,
+            "standard_deviation": 1.5491933384829668
+        }
+    ]
+}

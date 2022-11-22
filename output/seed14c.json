@@ -1,0 +1,22 @@
+{
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As a developer, I want to have the API components to be on a high level so that I don’t have to deal with their details. ",
+            "found": true,
+            "position": 1,
+            "token": "I"
+        }
+    ],
+    "result": [
+        {
+            "part": "so that",
+            "total_sentences": 1,
+            "total_sentences_completed": 1,
+            "first_10": 1,
+            "avg_position": 1,
+            "median_pos": 1,
+            "standard_deviation": 0
+        }
+    ]
+}

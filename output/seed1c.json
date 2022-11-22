@@ -1,0 +1,71 @@
+{
+    "sentences": [
+        {
+            "id": 1,
+            "sentence": "As a Developer , I want to determine the best way to load historical FPDS data, so that I can load all FPDS data since 2007.",
+            "found": true,
+            "position": 3,
+            "token": "I"
+        },
+        {
+            "id": 2,
+            "sentence": "As an agency user, I want a landing page to navigate to either FABS or DABS pages, so that I can access both sides of the site.",
+            "found": true,
+            "position": 3,
+            "token": "I"
+        },
+        {
+            "id": 3,
+            "sentence": "As an agency user, I want to submit my data elements surrounded by quotation marks, so that Excel won't strip off leading and trailing zeroes.",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 4,
+            "sentence": "As a broker team member, I want to derive FundingAgencyCode, so that the data quality and completeness improves.",
+            "found": true,
+            "position": 16,
+            "token": "the"
+        },
+        {
+            "id": 5,
+            "sentence": "As a Developer, I want D Files generation requests to be managed and cached, so that duplicate requests do not cause performance issues.",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 7,
+            "sentence": "As a UI designer, I want to schedule user testing, so that I can give the testers advanced notice to ensure buy-in.",
+            "found": true,
+            "position": 3,
+            "token": "I"
+        },
+        {
+            "id": 8,
+            "sentence": "As an Owner, I want to create a user testing summary from the UI SME, so that I can know what UI improvements we will follow through on.",
+            "found": true,
+            "position": 3,
+            "token": "I"
+        },
+        {
+            "id": 9,
+            "sentence": "As a UI designer, I want to move on to round 2 of Homepage edits, so that I can get approvals from leadership.",
+            "found": true,
+            "position": 2,
+            "token": "I can get"
+        }
+    ],
+    "result": [
+        {
+            "part": "so that",
+            "total_sentences": 8,
+            "total_sentences_completed": 6,
+            "first_10": 5,
+            "avg_position": 5,
+            "median_pos": 3,
+            "standard_deviation": 5.403702434442518
+        }
+    ]
+}

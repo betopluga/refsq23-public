@@ -1,0 +1,10 @@
+As a anonymoususer, I want to easily find a link in the menu that links to the registration form, so that I can easily register for the camp.
+As a anonymoususer, I want to fill out a user registration form, so that I can register for the camp and get an account on the website.
+As a anonymoususer, I want to find session information, so that I can go to a session.
+As a trainee, I want to add to "my schedule" if there is a schedule feature on the site, so that they can schedule their event experience.
+As a trainee, I want to see which trainings I have signed up for, so that they can schedule their event experience.
+As a summit coordinator, I want to see a list of attendees signed up for my summit, so that I can communicate with my attendees by email prior to the event.
+As a anonymoususer, I want to receive a notification when sessions have been evaluated, so that I know whether I've been accepted or rejected.
+As a anonymoususer, I want to receive a notification when I submit a session, so that know that my session went through ok.
+As a administrator, I want to bulk approve sessions as accepted, so that I can save time.
+As a administrator, I want to mark a session as accepted, so that I can populate the schedule .

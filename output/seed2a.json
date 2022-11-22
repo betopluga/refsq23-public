@@ -1,0 +1,85 @@
+{
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As a Staff member, I want to create each condo unit, so that I can associate it to the child parcel and address after the condominiums are recorded in the system.",
+            "found": true,
+            "position": 13,
+            "token": "Staff member,"
+        },
+        {
+            "id": 1,
+            "sentence": "As a Technical Staff member, I want to update the GIS Property Management, so that I can successfully update the transactional Parcel Pin to reference the GIS layer where the Split or Merged Parcel Pin exists.",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 2,
+            "sentence": "As a Staff member, I want to Send or Post Citations and Fines, so that I can successfully send the Notice Of Violation document to the property owner and log information about the action.",
+            "found": true,
+            "position": 13,
+            "token": "Staff member,"
+        },
+        {
+            "id": 3,
+            "sentence": "As a Planning Staff member, I want to Evaluate Consistency with the Comprehensive Plan, so that I can complete my required review of a plan set and/or application.",
+            "found": true,
+            "position": 1,
+            "token": "Plan"
+        },
+        {
+            "id": 4,
+            "sentence": "As a Staff member, I want to Schedule a Meeting, so that I can bring the required parties together at a specific date/time to address an issue.",
+            "found": true,
+            "position": 13,
+            "token": "Staff member,"
+        },
+        {
+            "id": 5,
+            "sentence": "As a staff member, I want to denote an application with a Final Action status. So that I can finish it.",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 6,
+            "sentence": "As an Inspection Staff member, I want to Create an Inspection, so that I can schedule and assign the inspection.",
+            "found": true,
+            "position": 4,
+            "token": "Inspection"
+        },
+        {
+            "id": 7,
+            "sentence": "As an Applicant, I want to Submit Application, so that I can provide my information, plans and/or documents to initiate a transaction with the County.",
+            "found": true,
+            "position": 1,
+            "token": "Applicant,"
+        },
+        {
+            "id": 8,
+            "sentence": "As a Staff member, I want to Perform a Completeness Review, so that I can validate when an application is complete and eligible for further technical review.",
+            "found": true,
+            "position": 13,
+            "token": "Staff member,"
+        },
+        {
+            "id": 9,
+            "sentence": "As a Staff member, I want to Record an Internal Note, so that I can share information with other Staff collaborating on the record.",
+            "found": true,
+            "position": 13,
+            "token": "Staff member,"
+        }
+    ],
+    "result": [
+        {
+            "part": "As a",
+            "total_sentences": 10,
+            "total_sentences_completed": 8,
+            "first_10": 3,
+            "avg_position": 8.875,
+            "median_pos": 13,
+            "standard_deviation": 5.767829500154902
+        }
+    ]
+}

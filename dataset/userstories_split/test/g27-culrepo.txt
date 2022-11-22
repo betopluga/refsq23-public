@@ -1,0 +1,10 @@
+As a library staff member, I want to trace the list of revisors to determine who uploaded an item to the repository, so that I can confirm that proper procedures were followed.
+As an asset manager, I want to be assured that there is a formal plan for the disposition of assets if the IR should cease.
+As an asset manager, I want to have mechanism to pass ownership/management of the assets to a successor.
+As a patron, I want to email system provider to report issues and ask questions.
+As a data curator, I want to have a mechanism to allow for records scheduling for items that do not need to be stored indefinitely.
+As a library staff member, I want to preserve the scholarship of the law school by using sustainable links that will not succumb to link rot, so that I can create a permanent digital archive for the scholarship of my institution.
+As an asset manager, I want to be assured that the digital copy I deposit is stored redundantly, so that when one copy suffers destruction or unwanted changes, I still have other good copies to restore from.
+As an asset manager, I want to be assured that threats to copies in one repository are not automatically incurred by the redundant copies.
+As a Cornell faculty member, I want to search the repository and browse through its contents on my phone, so that I can check things on the go.
+As a Cornell faculty member, I want to login remotely to the repository using Shibboleth, so that I can get remote access to Cornell campus-only content.

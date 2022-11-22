@@ -1,0 +1,15 @@
+{
+    "sentences": [
+        "As a FABS user, I want to have my validations run in a reasonable amount of time.",
+        "As a Developer , I want to determine the best way to load historical FPDS data, so that I can load all FPDS data since 2007.",
+        "As an agency user, I want a landing page to navigate to either FABS or DABS pages, so that I can access both sides of the site.",
+        "As an agency user, I want to submit my data elements surrounded by quotation marks, so that Excel won't strip off leading and trailing zeroes.",
+        "As a broker team member, I want to derive FundingAgencyCode, so that the data quality and completeness improves.",
+        "As a Developer, I want D Files generation requests to be managed and cached, so that duplicate requests do not cause performance issues.",
+        "As a website user, I want to see updated financial assistance data daily.",
+        "As a UI designer, I want to schedule user testing, so that I can give the testers advanced notice to ensure buy-in.",
+        "As an Owner, I want to create a user testing summary from the UI SME, so that I can know what UI improvements we will follow through on.",
+        "As a UI designer, I want to move on to round 2 of Homepage edits, so that I can get approvals from leadership."
+    ],
+    "part": "As a"
+}

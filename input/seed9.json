@@ -1,0 +1,15 @@
+{
+    "sentences": [
+        "As a user, I want to have the application respond quickly to my actions, so that I don't get bored.",
+        "As a user, I want to be able to use Unicode, so that I can use any language I like.",
+        "As a moderator, I want to create a new game by entering a name and an optional description, so that I can start inviting estimators.",
+        "As a moderator, I want to invite estimators by giving them a URL where they can access the game, so that we can start the game.",
+        "As a moderator, I want to start a round by entering an item in a single multi-line text field, so that we can estimate it.",
+        "As a moderator, I want to see all items we try to estimate this session, so that I can answer questions about the current story such as 'does this include ___'.",
+        "As a moderator, I want to select an item to be estimated or re-estimated, so that the team sees that item and can estimate it.",
+        "As a participant, I want to be able to change my estimate up until the last person selects a card and all are shown, so that I can change my mind based on information I hear.",
+        "As a participant, I want to be able to see each estimator's prior estimates for the story being estimated, so that I can see how his or her opinion has changed so I can ask questions.",
+        "As a developer, I want to have created database indexes, so that the queries run as fast as possible."
+    ],
+    "part": "As a"
+}

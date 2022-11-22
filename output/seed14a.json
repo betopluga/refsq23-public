@@ -1,0 +1,85 @@
+{
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As a developer, I want to have the API components to be on a high level so that I don’t have to deal with their details. ",
+            "found": true,
+            "position": 7,
+            "token": "developer,"
+        },
+        {
+            "id": 1,
+            "sentence": "As a developer, I want to have an easy way to read data from health sensors the user is wearing. ",
+            "found": true,
+            "position": 7,
+            "token": "developer,"
+        },
+        {
+            "id": 2,
+            "sentence": "As a serious games developer, I want to be able to take control over some functions to provide the desired user experience. ",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 3,
+            "sentence": "As a developer, I want to provide an easy way to manage the user Settings. ",
+            "found": true,
+            "position": 7,
+            "token": "developer,"
+        },
+        {
+            "id": 4,
+            "sentence": "As a developer, I want to have the ALFRED API to reduce the work to achieve my goals. ",
+            "found": true,
+            "position": 7,
+            "token": "developer,"
+        },
+        {
+            "id": 5,
+            "sentence": "As an OlderPerson, I want to know exactly what ALFRED does with my personal data, and share it only on my specific permission. ",
+            "found": true,
+            "position": 1,
+            "token": "OlderPerson,"
+        },
+        {
+            "id": 6,
+            "sentence": "As an OlderPerson, I want to receive information from ALFRED by speech technology. ",
+            "found": true,
+            "position": 1,
+            "token": "OlderPerson,"
+        },
+        {
+            "id": 7,
+            "sentence": "As an OlderPerson, I want to use only well-visible buttons.",
+            "found": true,
+            "position": 1,
+            "token": "OlderPerson,"
+        },
+        {
+            "id": 8,
+            "sentence": "As an OlderPerson, I want to use ALFRED as much as possible with speech interaction.",
+            "found": true,
+            "position": 1,
+            "token": "OlderPerson,"
+        },
+        {
+            "id": 9,
+            "sentence": "As a MedicalCaregiver, I want to have videophone.",
+            "found": true,
+            "position": 4,
+            "token": "MedicalCaregiver,"
+        }
+    ],
+    "result": [
+        {
+            "part": "As a",
+            "total_sentences": 10,
+            "total_sentences_completed": 9,
+            "first_10": 9,
+            "avg_position": 4,
+            "median_pos": 4,
+            "standard_deviation": 3
+        }
+    ]
+}

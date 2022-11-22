@@ -1,0 +1,10 @@
+As a CST, I want to pay an annual fee, so that my CST status is active.
+As a site administrator, I want to set the annual fees for members, Practitioners and Trainers, so that fees can be set without involving a programmer.
+As a member, I want to receive a reminder and a link, so that I can renew my membership.
+As a member, I want to have the system email me a new password or a password reminder since i have short-term memory problems.
+As a trainer, I want to read information of relevance only to trainers, so that the Scrum Alliance can share information with me easily.
+As a site editor, I want to post information in a trainers-only section, so that only trainers see it.
+As a site member, I want to view the profiles of other members, so that I can find others I might want to connect with.
+As a site visitor, I want to have an advanced search option that lets me fill in a form of search criteria, so that I can quickly find what I am looking for.
+As a site visitor, I want to see new content when I come to the site, so that I come back more often.
+As a site visitor, I want to have articles that interest me and are easy to get to, so that I come to the site for my agile news and learning.

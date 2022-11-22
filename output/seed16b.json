@@ -1,0 +1,85 @@
+{
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As an IT staff member, I want to know with which software or technology the data is produced or used, so that I can determine what kind of technical services and functionalities are required.",
+            "found": true,
+            "position": 10,
+            "token": "know"
+        },
+        {
+            "id": 1,
+            "sentence": "As a data manager, I want to know which information is necessary to re-use the data, so that it can be checked whether all necessary information is available for researchers interested in re-using the data.",
+            "found": true,
+            "position": 9,
+            "token": "know which"
+        },
+        {
+            "id": 2,
+            "sentence": "As a data manager, I want to know which formats are used, so that I know what technology or background information might be necessary to use the data.",
+            "found": true,
+            "position": 9,
+            "token": "know which"
+        },
+        {
+            "id": 3,
+            "sentence": "As a researcher, I want to see the sections on costing by other researchers in my department, so that I can see if we could share data manager posts.",
+            "found": true,
+            "position": 3,
+            "token": "see"
+        },
+        {
+            "id": 4,
+            "sentence": "As a data manager, I want to document all rights necessary for managing the data, so that I can curate and preserve the data.",
+            "found": false,
+            "position": 0,
+            "token": ""
+        },
+        {
+            "id": 5,
+            "sentence": "As a data manager, I want to know what the content of the data is, so that I can check whether the necessary expertise for maintaining intellectual reusability is available.",
+            "found": true,
+            "position": 10,
+            "token": "know"
+        },
+        {
+            "id": 6,
+            "sentence": "As a researcher, I want to know which topics are mandatory and similar in all DMPs, so that I can save time through quickly writing it.",
+            "found": true,
+            "position": 9,
+            "token": "know which"
+        },
+        {
+            "id": 7,
+            "sentence": "As a data manager, I want to know which information is necessary to re-use the data, so that it can be checked whether all necessary information is available for researchers interested in re-using the data.",
+            "found": true,
+            "position": 9,
+            "token": "know which"
+        },
+        {
+            "id": 8,
+            "sentence": "As a data manager, I want to know which formats are used, so that I know what technology or background information might be necessary to use the data.",
+            "found": true,
+            "position": 9,
+            "token": "know which"
+        },
+        {
+            "id": 9,
+            "sentence": "As an IT staff member, I want to know which kind of data types will be produced or collected, so that I can ensure that the necessary technical resources and technical know-how is available.",
+            "found": true,
+            "position": 9,
+            "token": "know which"
+        }
+    ],
+    "result": [
+        {
+            "part": "I want to",
+            "total_sentences": 10,
+            "total_sentences_completed": 9,
+            "first_10": 9,
+            "avg_position": 8.555555555555555,
+            "median_pos": 9,
+            "standard_deviation": 2.1278575558006176
+        }
+    ]
+}

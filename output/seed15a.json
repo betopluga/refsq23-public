@@ -1,0 +1,85 @@
+{
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As a anonymoususer, I want to easily find a link in the menu that links to the registration form, so that I can easily register for the camp.",
+            "found": true,
+            "position": 16,
+            "token": "anonymoususer,"
+        },
+        {
+            "id": 1,
+            "sentence": "As a anonymoususer, I want to fill out a user registration form, so that I can register for the camp and get an account on the website.",
+            "found": true,
+            "position": 16,
+            "token": "anonymoususer,"
+        },
+        {
+            "id": 2,
+            "sentence": "As a anonymoususer, I want to find session information, so that I can go to a session.",
+            "found": true,
+            "position": 16,
+            "token": "anonymoususer,"
+        },
+        {
+            "id": 3,
+            "sentence": "As a trainee, I want to add to 'my schedule' if there is a schedule feature on the site, so that they can schedule their event experience.",
+            "found": true,
+            "position": 20,
+            "token": "trainee,"
+        },
+        {
+            "id": 4,
+            "sentence": "As a trainee, I want to see which trainings I have signed up for, so that they can schedule their event experience.",
+            "found": true,
+            "position": 20,
+            "token": "trainee,"
+        },
+        {
+            "id": 5,
+            "sentence": "As a summit coordinator, I want to see a list of attendees signed up for my summit, so that I can communicate with my attendees by email prior to the event.",
+            "found": true,
+            "position": 13,
+            "token": "summit coordinator,"
+        },
+        {
+            "id": 6,
+            "sentence": "As a anonymoususer, I want to receive a notification when sessions have been evaluated, so that I know whether I've been accepted or rejected.",
+            "found": true,
+            "position": 16,
+            "token": "anonymoususer,"
+        },
+        {
+            "id": 7,
+            "sentence": "As a anonymoususer, I want to receive a notification when I submit a session, so that know that my session went through ok.",
+            "found": true,
+            "position": 16,
+            "token": "anonymoususer,"
+        },
+        {
+            "id": 8,
+            "sentence": "As a administrator, I want to bulk approve sessions as accepted, so that I can save time.",
+            "found": true,
+            "position": 1,
+            "token": "administrator, I want"
+        },
+        {
+            "id": 9,
+            "sentence": "As a administrator, I want to mark a session as accepted, so that I can populate the schedule .",
+            "found": true,
+            "position": 1,
+            "token": "administrator, I want"
+        }
+    ],
+    "result": [
+        {
+            "part": "As a",
+            "total_sentences": 10,
+            "total_sentences_completed": 10,
+            "first_10": 2,
+            "avg_position": 13.5,
+            "median_pos": 16,
+            "standard_deviation": 6.900080514828151
+        }
+    ]
+}
